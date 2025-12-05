@@ -37,19 +37,29 @@ A simple and clean **React-based arithmetic calculator** that performs basic ope
 ---
 ## screenshot
 1.homepage
-![alt text](screenshot/Screenshot_5-12-2025_142630_localhost.jpeg)
+
+![Screenshot_5-12-2025_142630_localhost](https://github.com/user-attachments/assets/b5381bd5-2f3d-46b8-8f1c-f16bc6f94c46)
+
 
 2.addition number
-![alt text](Screenshot_5-12-2025_142647_localhost.jpeg)
+
+![Screenshot_5-12-2025_142647_localhost](https://github.com/user-attachments/assets/c0624dfb-4900-4f15-903e-d6baf4a33368)
+
 
 3.substraction
-![alt text](Screenshot_5-12-2025_142656_localhost.jpeg)
+
+![Screenshot_5-12-2025_142656_localhost](https://github.com/user-attachments/assets/4b3f12ef-fcca-4527-a0f0-794cd95a997e)
+
 
 4.multiply
-![alt text](Screenshot_5-12-2025_14275_localhost.jpeg)
+
+![Screenshot_5-12-2025_14275_localhost](https://github.com/user-attachments/assets/ad26bf2d-839e-49f6-8619-27e82524f4fd)
+
 
 5.divided
-![alt text](Screenshot_5-12-2025_142713_localhost.jpeg)
+
+![Screenshot_5-12-2025_142713_localhost](https://github.com/user-attachments/assets/a3c0208f-2405-4d55-9d19-7f7fde7900fa)
+
 
 ## 🚀 How to Use
 
